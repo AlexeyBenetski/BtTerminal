@@ -51,28 +51,12 @@
 
 ---
 
-## 🖼 Screenshots
-
-> *(Add your screenshots here later — you can drag them into this README on GitHub)*
-
-| Device list | Connected | Messaging |
-|--------------|------------|------------|
-| *(image)* | *(image)* | *(image)* |
-
----
 
 ## 🧑‍💻 Author
 
 **Alexey Benetski**  
 📅 2025  
 💬 Created with ❤️ using Android Studio & Kotlin  
-
----
-
-## ⚖️ License
-
-Licensed under the [MIT License](LICENSE).  
-Feel free to fork, improve and share!
 
 ---
 
